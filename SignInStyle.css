@@ -1,0 +1,119 @@
+body{
+  background-color: #b5ff70;
+}
+.navbar{
+  display: inline-block;
+  background-color: #1D24CA;
+  width: 100%;
+  height: 40px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+
+
+}
+
+.home, .services, .profile, .signin, .signout{
+  display: inline-block;
+  padding: 5px;
+  margin: 2px;
+  margin-top: 5px;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  text-decoration: none;
+  color: #333;
+  }
+
+.home{
+  text-align: center;
+  font-size: 15px;
+
+  margin-left: 10px;
+}
+.profile{
+  font-size: 15px;
+  width: 60px;
+}
+
+.services{
+  font-size: 15px;
+}
+
+.signin{
+  width: 40px;
+  font-size: 15px;
+}
+
+.signout{
+  width: 50px;
+  font-size: 15px;
+}
+.fullname{
+  margin-bottom: 10px;
+  
+}
+#name{
+  margin-left: 50px; 
+}
+.dob{
+  margin-bottom: 10px;
+}
+#dateOfBirth{
+  width: 188px;
+  margin-left: 33px;
+}
+.address{
+  margin-bottom: 10px;
+}
+#address{
+  
+  margin-left: 64px;
+}
+.phone{
+  margin-bottom: 10px;
+}
+#phone{
+  margin-left: 77px;
+}
+.email{
+  margin-bottom: 10px;
+}
+#email{
+  margin-left: 84px;
+}
+.password{
+  margin-bottom: 10px;
+}
+#password{
+  margin-left: 52px;
+}
+#submit{
+  display: inline-block;
+  margin-left: 255px;
+  position: absolute;
+  width: 70px;
+  height: 30px;
+}
+.office{
+  width: 340px;
+  margin-left: 4px;
+  margin-top:150px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #6e5fc2;
+  color: white;
+}
+.contactUs{
+  width: 340px;
+  margin-left: 4px;
+  margin-top:7px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #16acc9;
+  color: white;
+}
+footer{
+  text-align: center;
+  opacity: 0.3;
+  position:break;
+
+}
