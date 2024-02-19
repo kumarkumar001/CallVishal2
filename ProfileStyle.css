@@ -1,0 +1,96 @@
+
+
+.navbar{
+  display: inline-block;
+  background-color: #1D24CA;
+  width: 100%;
+  height: 40px;
+  border-radius: 20px;
+
+
+}
+
+.home, .services, .profile, .signin, .signout{
+  display: inline-block;
+  padding: 5px;
+  margin: 2px;
+  margin-top: 5px;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  text-decoration: none;
+  color: #333;
+  }
+
+.home{
+  text-align: center;
+  font-size: 15px;
+
+  margin-left: 10px;
+}
+.profile{
+  font-size: 15px;
+  width: 60px;
+}
+
+.services{
+  font-size: 15px;
+}
+
+.signin{
+  width: 40px;
+  font-size: 15px;
+}
+
+.signout{
+  width: 50px;
+  font-size: 15px;
+}
+
+.NameAndUserName{
+  margin-left: 130px;
+  margin-top: -100px;
+  line-height: 10px;
+}
+.userProfile{
+  margin-top: 60px;
+  margin-left: -15px;
+}
+.message{
+  margin-left: 20px;
+  background-color: #00ffff;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 10px;
+  
+  color: ;
+  
+  width: 100px;
+  height: 30px;
+  
+  
+}
+
+.office{
+  width: 340px;
+  margin-left: 4px;
+  margin-top:55px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #6e5fc2;
+  color: white;
+}
+.contactUs{
+  width: 340px;
+  margin-left: 4px;
+  margin-top:7px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #16acc9;
+  color: white;
+}
+footer{
+  text-align: center;
+  opacity: 0.3;
+  position:break;
+
+}
